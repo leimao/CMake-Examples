@@ -21,7 +21,7 @@ The following plugins are optional but also recommended in some cases.
 * vscode-cudacpp
 * vscode-icons
 
-### Examples
+## Examples
 
 #### HelloUnderworld_v1
 
