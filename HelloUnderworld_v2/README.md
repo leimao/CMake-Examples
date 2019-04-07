@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project further enhanced the CMake usage by using libraries, subdirectories, preprocessor macros, etc.
+This project further extended the CMake usage by using libraries, subdirectories, preprocessor macros, etc.
 
 ## To Build and Compile
 

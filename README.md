@@ -31,8 +31,8 @@ The following examples were included in this repositories. The instructions of e
 
 #### [HelloUnderworld_v1](/HelloUnderworld_v1)
 
-This project demonstrates how to use CMake to configure a simple project to install in specified directories.
+This project demonstrates how to use CMake to configure a simple project to be installed in specified directories.
 
 #### [HelloUnderworld_v2](/HelloUnderworld_v2)
 
-This project further enhanced the CMake usage by using libraries, subdirectories, preprocessor macros, etc.
+This project further extended the CMake usage by using libraries, subdirectories, preprocessor macros, etc.
