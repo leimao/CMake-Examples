@@ -6,6 +6,10 @@ Lei Mao
 
 This repository contains several useful CMake examples I collected for CMake noobs including me. Instead of reading lengthy CMake documentations or randomly Googling, these examples are good start to write CMake files for your own projects.
 
+## Dependencies
+
+* CMake 3.10.2+
+
 
 ## Recommended Tools
 
@@ -23,10 +27,12 @@ The following plugins are optional but also recommended in some cases.
 
 ## Examples
 
-#### HelloUnderworld_v1
+The following examples were included in this repositories. The instructions of each project could be found in each project directory.
+
+#### [HelloUnderworld_v1](/HelloUnderworld_v1)
 
 This project demonstrates how to use CMake to configure a simple project to install in specified directories.
 
-#### HelloUnderworld_v2
+#### HelloUnderworld_v2(/HelloUnderworld_v2)
 
 This project further enhanced the CMake usage by using libraries, subdirectories, preprocessor macros, etc.
