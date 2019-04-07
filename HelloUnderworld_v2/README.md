@@ -18,7 +18,7 @@ $ make
 To run the executables, please run the following command in the terminal.
 
 ```bash
-$ cd hello-exe
+$ cd main
 $ ./HelloUnderworld
 ```
 
