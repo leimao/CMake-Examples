@@ -33,6 +33,6 @@ The following examples were included in this repositories. The instructions of e
 
 This project demonstrates how to use CMake to configure a simple project to install in specified directories.
 
-#### HelloUnderworld_v2(/HelloUnderworld_v2)
+#### [HelloUnderworld_v2](/HelloUnderworld_v2)
 
 This project further enhanced the CMake usage by using libraries, subdirectories, preprocessor macros, etc.
