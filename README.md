@@ -9,6 +9,7 @@ This repository contains several useful CMake examples I collected for CMake noo
 ## Dependencies
 
 * CMake 3.10.2+
+* GNU 7.3.0+
 
 
 ## Recommended Tools
