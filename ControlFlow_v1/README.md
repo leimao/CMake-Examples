@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project describes how to program control flows and some other basic operations in CMake.
+This project described how to program control flows and some other basic operations in CMake.
 
 ## To Comfigure
 

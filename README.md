@@ -31,7 +31,7 @@ The following examples were included in this repositories. The instructions of e
 
 #### [HelloUnderworld_v1](/HelloUnderworld_v1)
 
-This project demonstrates how to use CMake to configure a simple project to be installed in specified directories.
+This project demonstrated how to use CMake to configure a simple project to be installed in specified directories.
 
 #### [HelloUnderworld_v2](/HelloUnderworld_v2)
 
@@ -39,4 +39,8 @@ This project further extended the CMake usage by using libraries, subdirectories
 
 #### [ControlFlow_v1](/ControlFlow_v1)
 
-This project describes how to program control flows and some other basic operations in CMake.
+This project described how to program control flows and some other basic operations in CMake.
+
+#### [HelloUnderworld_v3](/HelloUnderworld_v3)
+
+This project extended HelloUnderworld v2 and talked about how the basic CMake macros changes in different scopes.

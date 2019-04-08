@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project demonstrates how to use CMake to configure a simple project to be installed in specified directories.
+This project demonstrated how to use CMake to configure a simple project to be installed in specified directories.
 
 ## To Build and Compile
 
