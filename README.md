@@ -36,3 +36,7 @@ This project demonstrates how to use CMake to configure a simple project to be i
 #### [HelloUnderworld_v2](/HelloUnderworld_v2)
 
 This project further extended the CMake usage by using libraries, subdirectories, preprocessor macros, etc.
+
+#### [ControlFlow_v1](/ControlFlow_v1)
+
+This project describes how to program control flows and some other basic operations in CMake.
