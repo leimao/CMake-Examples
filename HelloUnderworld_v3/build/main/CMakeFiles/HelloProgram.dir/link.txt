@@ -1,1 +1,0 @@
-/usr/bin/g++-7  -g   CMakeFiles/HelloProgram.dir/main.cpp.o  -o HelloProgram -Wl,-rpath,/home/leimao/GitHub/CMake_Examples/HelloUnderworld_v3/build/lib ../lib/libsay-hello.so 
