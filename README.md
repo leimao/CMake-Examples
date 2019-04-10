@@ -4,7 +4,7 @@ Lei Mao
 
 ## Introduction
 
-This repository contains several useful CMake examples I collected for CMake noobs including me. Instead of reading lengthy CMake documentations or randomly Googling, these examples are good start to write CMake files for your own projects.
+CMake is not only a tool to make compile easier but also a Turing complete programming language. This repository contains several useful CMake examples I collected for CMake noobs including me. Instead of reading lengthy CMake documentations or randomly Googling, these examples are good start to write CMake files for your own projects.
 
 ## Dependencies
 
@@ -45,3 +45,7 @@ This project described how to program control flows and some other basic operati
 #### [HelloUnderworld_v3](/HelloUnderworld_v3)
 
 This project extended HelloUnderworld v2 and talked about how the basic CMake macros changes in different scopes.
+
+#### [FunctionScope_v1](/FunctionScope_v1)
+
+This project described function scopes and how to program basic function in CMake.

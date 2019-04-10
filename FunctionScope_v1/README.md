@@ -1,4 +1,4 @@
-# CMake Control Flow
+# CMake Function Scope
 
 ## Introduction
 
