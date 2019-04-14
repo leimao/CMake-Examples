@@ -6,7 +6,7 @@ find_package( CUDA REQUIRED )
 # No CUDA headers required 
 # include_directories( ${CUDA_INCLUDE_DIRS} )
 
-cuda_add_executable( ${PROJECT_NAME} main.cpp kernels.h kernels.cu )
+cuda_add_executable( ${PROJECT_NAME} main.cpp kernels.cu )
 
 # No CUDA libraries link required
 # target_link_libraries(${PROJECT_NAME} ${CUDA_LIBRARIES})
