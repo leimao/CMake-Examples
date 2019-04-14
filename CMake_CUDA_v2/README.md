@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project extended CMakeCUDA v1 and talked about how to use CMake compile CUDA files with ordinary C++ files.
+This project extended CMakeCUDA v1 and talked about how to use CMake to compile CUDA files with ordinary C++ files.
 
 ## To Build and Compile
 

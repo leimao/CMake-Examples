@@ -49,3 +49,17 @@ This project extended HelloUnderworld v2 and talked about how the basic CMake ma
 #### [FunctionScope_v1](/FunctionScope_v1)
 
 This project described function scopes and how to program basic function in CMake.
+
+
+#### [CMake_CUDA_v1](/CMake_CUDA_v1)
+
+This project talked about how to use CMake to compile CUDA files.
+
+#### [CMake_CUDA_v2](/CMake_CUDA_v2)
+
+This project extended CMakeCUDA v1 and talked about how to use CMake to compile CUDA files with ordinary C++ files.
+
+#### [CMake_CUDA_v3](/CMake_CUDA_v3)
+
+This project extended CMakeCUDA v2 and talked about how to use CMake compile to CUDA files to library and how to use ordinary C++ files with compiled CUDA libraries.
+
